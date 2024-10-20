@@ -29,10 +29,6 @@
   <a href="https://t.me/androidide_discussions">Join us on Telegram</a>
 </p>
 
-> [!WARNING]
-> 
-> THIS PROJECT IS NOT MAINTAINED ANYMORE.
-
 ## Features
 
 - [x] Gradle support.
